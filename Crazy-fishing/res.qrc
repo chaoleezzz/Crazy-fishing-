@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/i">
+        <file>res/gouzi.png</file>
+        <file>res/hook1.png</file>
+        <file>res/item0.png</file>
+        <file>res/item1.png</file>
+        <file>res/item2.png</file>
+        <file>res/item3_jiasu.png</file>
+        <file>res/item5_jianfen.png</file>
+        <file>res/item6.png</file>
+        <file>res/item7.png</file>
+        <file>res/item8.png</file>
+        <file>res/item9.png</file>
+        <file>res/ship.png</file>
+        <file>res/mysea.png</file>
+        <file>res/item4_shoubiao.png</file>
+        <file>res/time.png</file>
+        <file>res/end_back.jpg</file>
+        <file>res/anniu1.png</file>
+        <file>res/anniu2.png</file>
+        <file>res/icons8-pause-100.png</file>
+        <file>res/icons8-play-100.png</file>
+        <file>res/icons8-help-64.png</file>
+        <file>res/png_pause.PNG</file>
+        <file>res/giphy.gif</file>
+        <file>res/main_back.png</file>
+        <file>res/help.PNG</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>wav/doudizhu.wav</file>
+        <file>wav/haimiaobaobao.wav</file>
+        <file>wav/get.wav</file>
+        <file>wav/ladao.wav</file>
+        <file>wav/shenchuqu.wav</file>
+    </qresource>
+</RCC>
